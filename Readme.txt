@@ -45,7 +45,7 @@ Step 9: Open http://127.0.0.1:8080/ 3rd browser
    
 Step 10: Open http://127.0.0.1:8080/ 3rd browser
           Go to Payment Transaction. In Sender address give buyer's master key , in sender's private key give buyer's enrollment key, In Recipient Address give seller's 
-  public key, in Product ID give any number and in amount to be send give the amount. Then click generate transaction.It will give a pop up window.Then click private contract.
+  master key, in Product ID give any number and in amount to be send give the amount. Then click generate transaction.It will give a pop up window.Then click private contract.
   Go to that URL(in 5004) click Mine. In Transactions on the blockchain, the amount paid will be displayed. 
   
   Step 11: Open http://127.0.0.1:8080/ 3rd browser
